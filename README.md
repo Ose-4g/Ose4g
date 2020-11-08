@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     <h2>Parle</h2>
     <p>An android app to help students connect with counsellors and discuss issues that bother them.</p>
     <p>Built using Java and Android Studio. Still Incomplete though <img src = "https://cdn.shopify.com/s/files/1/1061/1924/products/Sad_Face_Emoji_large.png" width = "2%"></p>
-    <a href="">Download app in current state</a>
+    <a href="https://ufile.io/7tkuqh5a">Download app in current state</a>
   </li>
 </ul>
 <br/>
