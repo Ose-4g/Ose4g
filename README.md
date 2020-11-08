@@ -25,18 +25,22 @@ Here are some ideas to get you started:
   <li>
     <h2>TypeRighter <img src="https://i.ibb.co/0fmCBYw/type-righter.png" width = "5%"></h2>
     <p>A simple Typing game made with android studio and Java.</p>
+    <a href = "https://github.com/Ose-4g/TYPEWRIGHTER">View Repository</a><br/>
+    <a href="">Download Game</a>
   </li>
   
   <li>
     <h2>Parle</h2>
-    <p>A simple Typing game made with android studio and Java.</p>
+    <p>An android app to help students connect with counsellors and discuss issues that bother them.</p>
+    <p>Built using Java and Android Studio. Still Incomplete though <img src = "https://cdn.shopify.com/s/files/1/1061/1924/products/Sad_Face_Emoji_large.png" width = "2%"></p>
+    <a href="">Download app in current state</a>
   </li>
 </ul>
 
 ## LANGUAGES
-<img src ="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width ="5%" > 
-<img src ="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg" width ="5%">   
-<img src ="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-640x400.png" width ="5%">  
-<img src ="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width ="5%">
+<img src ="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width ="5%" > Python<br/><br/>
+<img src ="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg" width ="5%"> Kotlin<br/><br/>
+<img src ="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-640x400.png" width ="5%"> Java<br/><br/>
+<img src ="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width ="5%"> C++
 
 ## CONTACT ME
