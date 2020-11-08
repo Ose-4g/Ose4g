@@ -36,11 +36,18 @@ Here are some ideas to get you started:
     <a href="">Download app in current state</a>
   </li>
 </ul>
+<br/>
+<br/>
 
 ## LANGUAGES
 <img src ="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width ="5%" > Python<br/><br/>
 <img src ="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg" width ="5%"> Kotlin<br/><br/>
 <img src ="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-640x400.png" width ="5%"> Java<br/><br/>
 <img src ="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width ="5%"> C++
-
+<br/>
+<br/>
+<br/>
 ## CONTACT ME
+<a href = "https://www.linkedin.com/in/osemudiamen-itua-72bb5b166/"><img src ="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width = "2%"> Linked In</a>  
+**Email:** osemudiamenitua@gmail.com      
+**Phone:** +2349070739852
