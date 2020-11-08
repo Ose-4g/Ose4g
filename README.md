@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <h2>TypeRighter <img src="https://i.ibb.co/0fmCBYw/type-righter.png" width = "5%"></h2>
     <p>A simple Typing game made with android studio and Java.</p>
     <a href = "https://github.com/Ose-4g/TYPEWRIGHTER">View Repository</a><br/>
-    <a href="">Download Game</a>
+    <a href="https://ufile.io/1y4plfo5">Download Game</a>
   </li>
   
   <li>
