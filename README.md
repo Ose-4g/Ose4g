@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 # PROJECTS
 <ul>
   <li>
-    <h2>TypeRighter <img src="https://i.ibb.co/0fmCBYw/type-righter.png" width = "5%"></h2>
+    <h2>TypeRighter <img src="https://i.ibb.co/0fmCBYw/type-righter.png" width = "40rem"></h2>
     <p>A simple Typing game made with android studio and Java.</p>
     <a href = "https://github.com/Ose-4g/TYPEWRIGHTER">View Repository</a><br/>
     <a href="https://ufile.io/1y4plfo5">Download Game</a>
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <li>
     <h2>Parle</h2>
     <p>An android app to help students connect with counsellors and discuss issues that bother them.</p>
-    <p>Built using Java and Android Studio. Still Incomplete though <img src = "https://cdn.shopify.com/s/files/1/1061/1924/products/Sad_Face_Emoji_large.png" width = "2%"></p>
+    <p>Built using Java and Android Studio. Still Incomplete though <img src = "https://cdn.shopify.com/s/files/1/1061/1924/products/Sad_Face_Emoji_large.png" width = "15rem"></p>
     <a href="https://ufile.io/7tkuqh5a">Download app in current state</a>
   </li>
 </ul>
