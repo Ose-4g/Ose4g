@@ -48,6 +48,6 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 ## CONTACT ME
-<a href = "https://www.linkedin.com/in/osemudiamen-itua-72bb5b166/"><img src ="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width = "2%"> Linked In</a>  
+<a href = "https://www.linkedin.com/in/osemudiamen-itua-72bb5b166/"><img src ="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width = "15rem"> Linked In</a>  
 **Email:** osemudiamenitua@gmail.com      
 **Phone:** +2349070739852
