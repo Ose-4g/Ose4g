@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 <br/>
 
 ## LANGUAGES
-<img src ="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width ="5%" > Python<br/><br/>
-<img src ="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg" width ="5%"> Kotlin<br/><br/>
-<img src ="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-640x400.png" width ="5%"> Java<br/><br/>
-<img src ="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width ="5%"> C++
+<img src ="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width ="40rem" > Python<br/><br/>
+<img src ="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg" width ="40rem"> Kotlin<br/><br/>
+<img src ="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-640x400.png" width ="40rem"> Java<br/><br/>
+<img src ="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width ="40rem"> C++
 <br/>
 <br/>
 <br/>
