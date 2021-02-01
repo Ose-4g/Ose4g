@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-# PROJECTS
+# PROJECTS   
+See all projects <a href = "https://drive.google.com/drive/folders/1pnMiP1dwsnvA56wvTOPbRLAm9guBnUFS?usp=sharing">here</a>
 <ul>
   <li>
     <h2>TypeRighter <img src="https://i.ibb.co/0fmCBYw/type-righter.png" width = "40rem"></h2>
