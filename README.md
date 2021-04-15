@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://svgshare.com/i/RJp.svg" width = "100%">
+<img src="https://lh3.googleusercontent.com/mDMIojdnRwHJ3w50q3exNdG0Y_-0DCN-kjlcQ5tGgyZp8-9SJfVbzctrj9ILrHz217MDEwGaunVqLVSXPnmJ-foDzvdLF-iKREbwdvyljL2PdZ1Glz_c1IXinkbiR2VZ-9wMIAYKBg=w2400" width = "100%">
 
 ### I'm an Android developer and an upcoming IOS developer.   
 <br>
