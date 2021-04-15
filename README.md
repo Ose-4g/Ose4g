@@ -33,8 +33,19 @@ See all projects <a href = "https://drive.google.com/drive/folders/1pnMiP1dwsnvA
   <li>
     <h2>Parle</h2>
     <p>An android app to help students connect with counsellors and discuss issues that bother them.</p>
-    <p>Built using Java and Android Studio. Still Incomplete though <img src = "https://cdn.shopify.com/s/files/1/1061/1924/products/Sad_Face_Emoji_large.png" width = "15rem"></p>
-    <a href="https://drive.google.com/folderview?id=1keIqKhRkBcdFbSxKuw9g0kdsKbpZZG5C">Download app in current state</a>
+    <p>Built using Java and Android Studio.</p>
+    <a href="https://drive.google.com/folderview?id=1keIqKhRkBcdFbSxKuw9g0kdsKbpZZG5C">Check out the app</a><br/>  
+    <a href="https://github.com/david-osas/Parle/tree/master">Check out the code</a>
+  
+  </li>
+  
+   <li>
+    <h2>niso</h2>
+    <p>An android app to help logistic business owners to determine most efficient routes to use for pickups and delveries. It uses google maps and google OR-tools.</p>
+    <p>Built using Java and Android Studio.</p>
+    <a href="https://drive.google.com/drive/folders/15ecyB8CMawzljXYS3l4BwGggugX-MViX?usp=sharing">Check out the app</a><br/>     
+    <a href="https://github.com/Ose-4g/niso">Check out the code</a>
+  
   </li>
 </ul>
 <br/>
