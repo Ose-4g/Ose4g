@@ -23,12 +23,6 @@ Here are some ideas to get you started:
 # PROJECTS   
 See all projects <a href = "https://drive.google.com/drive/folders/1pnMiP1dwsnvA56wvTOPbRLAm9guBnUFS?usp=sharing">here</a>
 <ul>
-  <li>
-    <h2>TypeRighter <img src="https://i.ibb.co/0fmCBYw/type-righter.png" width = "40rem"></h2>
-    <p>A simple Typing game made with android studio and Java.</p>
-    <a href = "https://github.com/Ose-4g/TYPEWRIGHTER">View Repository</a><br/>
-    <a href="https://drive.google.com/folderview?id=1mYmJlxE4qF4EhSha-C066UbjWEph9t19">Download Game</a>
-  </li>
   
   <li>
     <h2>Parle</h2>
