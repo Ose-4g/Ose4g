@@ -53,7 +53,7 @@ See all projects <a href = "https://drive.google.com/drive/folders/1pnMiP1dwsnvA
 
 ## LANGUAGES
 <img src ="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width ="40rem" > Python<br/><br/>
-<img src ="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg" width ="40rem"> Kotlin<br/><br/>
+<img src ="https://lh3.googleusercontent.com/etCBwQVTyZddG815So8AaVHQWH8VTpGTD3oxLrOlF8KXHnChjivLCyk4NOHt83nhQMpYgq1KyEPDTyOHPQviCsCbRkIbHiTordoiAyS9VHHK3iQfdNr6ppy8XFyxEozaQ4B6oHBZ2w=w2400" width ="40rem"> Kotlin<br/><br/>
 <img src ="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-640x400.png" width ="40rem"> Java<br/><br/>
 <img src ="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width ="40rem"> C++
 <br/>
