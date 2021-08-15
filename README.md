@@ -14,34 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://lh3.googleusercontent.com/mDMIojdnRwHJ3w50q3exNdG0Y_-0DCN-kjlcQ5tGgyZp8-9SJfVbzctrj9ILrHz217MDEwGaunVqLVSXPnmJ-foDzvdLF-iKREbwdvyljL2PdZ1Glz_c1IXinkbiR2VZ-9wMIAYKBg=w2400" width = "100%">
 
-### I'm an Android developer and an upcoming IOS developer.   
+### I'm a Backend developer acquainted with the DevOps ways.   
 <br>
 <br>
 
-# PROJECTS   
-See all projects <a href = "https://drive.google.com/drive/folders/1pnMiP1dwsnvA56wvTOPbRLAm9guBnUFS?usp=sharing">here</a>
-<ul>
-  
-  <li>
-    <h2>Parle</h2>
-    <p>An android app to help students connect with counsellors and discuss issues that bother them.</p>
-    <p>Built using Java and Android Studio.</p>
-    <a href="https://drive.google.com/folderview?id=1keIqKhRkBcdFbSxKuw9g0kdsKbpZZG5C">Check out the app</a><br/>  
-    <a href="https://github.com/david-osas/Parle/tree/master">Check out the code</a>
-  
-  </li>
-  
-   <li>
-    <h2>niso</h2>
-    <p>An android app to help logistic business owners to determine most efficient routes to use for pickups and delveries. It uses google maps and google OR-tools.</p>
-    <p>Built using Java and Android Studio.</p>
-    <a href="https://drive.google.com/drive/folders/15ecyB8CMawzljXYS3l4BwGggugX-MViX?usp=sharing">Check out the app</a><br/>     
-    <a href="https://github.com/Ose-4g/niso">Check out the code</a>
-  
-  </li>
-</ul>
+
 <br/>
 <br/>
 
